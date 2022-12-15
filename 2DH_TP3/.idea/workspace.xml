@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d859f59c-84f8-426e-ba06-80261c0d968d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uXQIUV4lvfptST3J2mfZHk7ZqV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../1 Ano/APROG/1DH_APROG_1190956_1190963" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informatica_Projects\2 Ano\ESINF\2DH_TP3_1190963\src\main\java" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informatica_Projects\2 Ano\ESINF\2DH_TP3_1190963\src\main\java\Tree" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informática_Projects\2ºAno\ESINF\2DH_TP3_1190963\src\test" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informática_Projects\2ºAno\ESINF\2DH_TP3_1190963\src\main\java\Tree" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informática_Projects\2ºAno\ESINF\2DH_TP3_1190963\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informatica_Projects\2 Ano\ESINF\2DH_TP3_1190963\src\main\java\Model\Element" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informática_Projects\2ºAno\ESINF\2DH_TP3_1190963\src\main\java" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Eng.Informática_Projects\2ºAno\ESINF\2DH_TP3_1190963\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Solutions" />
+      <recent name="Tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2DH_TP3_1190963" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2DH_TP_1190963" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tree" />
+      <option name="MAIN_CLASS_NAME" value="Tree.BSTTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecrescenteElectronicConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2DH_TP3_1190963" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Solutions" />
+      <option name="MAIN_CLASS_NAME" value="Solutions.DecrescenteElectronicConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DecrescenteElectronicConfigTest" />
+        <item itemvalue="JUnit.BSTTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d859f59c-84f8-426e-ba06-80261c0d968d" name="Default Changelist" comment="" />
+      <created>1624809377877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624809377877</updated>
+      <workItem from="1624809462799" duration="39000" />
+      <workItem from="1624809515235" duration="19187000" />
+      <workItem from="1624889879456" duration="2075000" />
+      <workItem from="1625519450012" duration="4400000" />
+      <workItem from="1635341663232" duration="147000" />
+      <workItem from="1635344993091" duration="1558000" />
+      <workItem from="1635346947345" duration="1294000" />
+      <workItem from="1635351208602" duration="676000" />
+      <workItem from="1635353642093" duration="59000" />
+      <workItem from="1635459434609" duration="5917000" />
+      <workItem from="1635602860137" duration="1052000" />
+      <workItem from="1635617751177" duration="3647000" />
+      <workItem from="1635712409761" duration="606000" />
+      <workItem from="1635864946736" duration="1339000" />
+      <workItem from="1635891544278" duration="6000" />
+      <workItem from="1636557675681" duration="72000" />
+      <workItem from="1642110286886" duration="1371000" />
+      <workItem from="1642169106342" duration="14000" />
+      <workItem from="1658667862269" duration="2445000" />
+      <workItem from="1658670345116" duration="1167000" />
+      <workItem from="1658757965965" duration="2329000" />
+      <workItem from="1658772370253" duration="9067000" />
+      <workItem from="1658786752383" duration="608000" />
+      <workItem from="1658846018065" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
